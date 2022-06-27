@@ -1,4 +1,23 @@
-f9d2a34f412e1bb5e9ef2402681553cabd99b47ba0e31dc476aec25cac9e23c1  Rocky-9.0-RC1-x86_64-boot.iso
-98f10fc02d689324753148179e8fda52a65a9aed5ef91379295e2e37b99adddd  Rocky-9.0-RC1-aarch64-boot.iso
-f5d6076d5752ac8533e828eb6d9d9c86ddd76412fee01ec4af055e6a7240d0ea  Rocky-9.0-RC1-s390x-boot.iso
-f73cec7a0ef9a4c9c8afd93e6765cf76c4b398833a872179a19c5be5a7b37cf5  Rocky-9.0-RC1-ppc64le-boot.iso
+# ppc64le
+Rocky-9.0-RC1-ppc64le-boot.iso: 812867584 bytes
+SHA256 (Rocky-9.0-RC1-ppc64le-boot.iso) = f5d1aa2b6da920a997f9aea336d7070f815fd0744be164f47940bb60a9c0d234
+Rocky-9.0-RC1-ppc64le-dvd.iso: 6792937472 bytes
+SHA256 (Rocky-9.0-RC1-ppc64le-dvd.iso) = a30bd4364996110456d7bdd219ceec3aa7a374af57afa12a01122b49e3759a16
+
+# aarch64
+Rocky-9.0-RC1-aarch64-boot.iso: 759635968 bytes
+SHA256 (Rocky-9.0-RC1-aarch64-boot.iso) = 0a36aa9f8028ada1c72c89548fc563b2cc7a09babb486d858932375c053a98d9
+Rocky-9.0-RC1-aarch64-dvd.iso: 6820331520 bytes
+SHA256 (Rocky-9.0-RC1-aarch64-dvd.iso) = cf7c5212603db8d742954bf96b0da5315736ce259f80897a6ddbea5221f382ba
+
+# s390x
+Rocky-9.0-RC1-s390x-dvd.iso: 6223167488 bytes
+SHA256 (Rocky-9.0-RC1-s390x-dvd.iso) = 1fc72a5abbb5fa9184f7c50b9da939960665ef00592c7115f335dfcc3a38d191
+Rocky-9.0-RC1-s390x-boot.iso: 433917952 bytes
+SHA256 (Rocky-9.0-RC1-s390x-boot.iso) = d5d51ba62d4ca7f38ecf25e90997e26afb88d3af9453827b218dfa21a988b3c4
+
+# x86_64
+Rocky-9.0-RC1-x86_64-dvd.iso: 8517451776 bytes
+SHA256 (Rocky-9.0-RC1-x86_64-dvd.iso) = dd2119ca1ce66ab5078818835572583069767ad84ab3bf368c88cd24d3b71c09
+Rocky-9.0-RC1-x86_64-boot.iso: 803209216 bytes
+SHA256 (Rocky-9.0-RC1-x86_64-boot.iso) = 6b5a7124e0c241d546bd2cdf78f826fd4a02082bcdeda7a7249bd862ba0e999d
