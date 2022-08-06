@@ -3,12 +3,14 @@
 This repository contains checksums for images, ISO's, and so on for Rocky Linux.
 They are sorted by version into various directories.
 
-| Release            | Purpose                        |
-|--------------------|--------------------------------|
-| rocky-linux-8      | Rocky Linux 8                  |
-| rocky-linux-9      | Rocky Linux 9                  |
-| rocky-linux-rc     | Rocky Linux Release Candidates |
-| images             | Rocky Linux Images per release |
+| Release              | Purpose                              |
+|----------------------|--------------------------------------|
+| keys                 | Rocky Linux GPG Keys                 |
+| rocky-linux-8        | Rocky Linux 8                        |
+| rocky-linux-9        | Rocky Linux 9                        |
+| rocky-linux-rc       | Rocky Linux Release Candidates       |
+| rocky-linux-X/images | Rocky Linux Images per release       |
+| scr                  | Scripts to pull the latest checksums |
 
 This repository is mirrored here: https://git.resf.org/rocky-linux/checksums
 

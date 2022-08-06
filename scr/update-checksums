@@ -1,0 +1,3 @@
+#!/bin/bash
+# Run this to update checksums, providing the correct values to pull down the
+# correct release and architectures
