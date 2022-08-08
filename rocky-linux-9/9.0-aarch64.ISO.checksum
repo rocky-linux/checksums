@@ -1,6 +1,16 @@
-Rocky-9.0-aarch64-boot.iso: 759867392 bytes
-SHA256 (Rocky-9.0-aarch64-boot.iso) = 758490fc7a48e69ce2b3d311dcb2c68189cc37be92ca8d61642400f66d7bdbcd
-Rocky-9.0-aarch64-dvd.iso: 6762266624 bytes
-SHA256 (Rocky-9.0-aarch64-dvd.iso) = b41ab5f423f0221ffdbeff08dc298beddd9940e2e197929eb8830bd4a2b08616
 Rocky-9.0-aarch64-minimal.iso: 1268514816 bytes
 SHA256 (Rocky-9.0-aarch64-minimal.iso) = 807aa4a26f1182704fbbd620feff92eed4d974c7f84ef64a53243d63e9adb530
+Rocky-9.0-20220808.0-aarch64-dvd.iso: 6766657536 bytes
+SHA256 (Rocky-9.0-20220808.0-aarch64-dvd.iso) = 6ce83b6d46f323a052959448550e881b11121781f59f072349495d0f9bebbef6
+Rocky-9.0-aarch64-minimal.iso: 1268580352 bytes
+SHA256 (Rocky-aarch64-minimal.iso) = 93e0aa19988ca49cf7fa6ae39790c24cb9f21136fbc5c490eb298c8762a6ffaf
+Rocky-9.0-20220805.0-aarch64-minimal.iso: 6766723072 bytes
+SHA256 (Rocky-9.0-20220805.0-aarch64-minimal.iso) = cd68de2a82e53d0f303a52fa969016b061fec9d9ae4cbcb126f13117ff93172d
+Rocky-aarch64-boot.iso: 759867392 bytes
+SHA256 (Rocky-aarch64-boot.iso) = 758490fc7a48e69ce2b3d311dcb2c68189cc37be92ca8d61642400f66d7bdbcd
+Rocky-9.0-aarch64-boot.iso: 759867392 bytes
+SHA256 (Rocky-9.0-aarch64-boot.iso) = 758490fc7a48e69ce2b3d311dcb2c68189cc37be92ca8d61642400f66d7bdbcd
+Rocky-aarch64-dvd.iso: 6766657536 bytes
+SHA256 (Rocky-aarch64-dvd.iso) = 6ce83b6d46f323a052959448550e881b11121781f59f072349495d0f9bebbef6
+Rocky-9.0-aarch64-dvd.iso: 6762266624 bytes
+SHA256 (Rocky-9.0-aarch64-dvd.iso) = b41ab5f423f0221ffdbeff08dc298beddd9940e2e197929eb8830bd4a2b08616
