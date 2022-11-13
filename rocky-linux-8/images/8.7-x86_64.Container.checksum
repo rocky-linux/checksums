@@ -1,0 +1,8 @@
+Rocky-8-Container-Base-8.7-20221113.0.x86_64.tar.xz: 46111848 bytes
+SHA256 (Rocky-8-Container-Base-8.7-20221113.0.x86_64.tar.xz) = f5767d94e6bf77250cd75dffbbd921a092026c4e688752635dc39d91d1e34c87
+Rocky-8-Container-Base.latest.x86_64.qcow2: 46111848 bytes
+SHA256 (Rocky-8-Container-Base.latest.x86_64.qcow2) = f5767d94e6bf77250cd75dffbbd921a092026c4e688752635dc39d91d1e34c87
+Rocky-8-Container-Minimal-8.7-20221112.0.x86_64.tar.xz: 32304008 bytes
+SHA256 (Rocky-8-Container-Minimal-8.7-20221112.0.x86_64.tar.xz) = cf846832933dd286c9479c3a8db3317f7ae40865f87f540a90f8febca57c3fbf
+Rocky-8-Container-Minimal.latest.x86_64.qcow2: 32304008 bytes
+SHA256 (Rocky-8-Container-Minimal.latest.x86_64.qcow2) = cf846832933dd286c9479c3a8db3317f7ae40865f87f540a90f8febca57c3fbf
