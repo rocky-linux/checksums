@@ -4,3 +4,7 @@ Rocky-8-GenericCloud-Base.latest.x86_64.qcow2: 1629880320 bytes
 SHA256 (Rocky-8-GenericCloud-Base.latest.x86_64.qcow2) = 4ef36a3fbeccc01c15737bef3a3bc5bdc6011d468df8a52487868e8710f1f220
 Rocky-8-GenericCloud-Base.latest.x86_64.qcow2: 1629880320 bytes
 SHA256 (Rocky-8-GenericCloud-Base.latest.x86_64.qcow2) = 4ef36a3fbeccc01c15737bef3a3bc5bdc6011d468df8a52487868e8710f1f220
+Rocky-8-GenericCloud-LVM-8.7-20221113.0.x86_64.qcow2: 1740308480 bytes
+SHA256 (Rocky-8-GenericCloud-LVM-8.7-20221113.0.x86_64.qcow2) = dae23882b9e7774797fc56aad6a1046a2a6d09fdde0fb910d409b0c1fecdb851
+Rocky-8-GenericCloud-LVM.latest.x86_64.qcow2: 1740308480 bytes
+SHA256 (Rocky-8-GenericCloud-LVM.latest.x86_64.qcow2) = dae23882b9e7774797fc56aad6a1046a2a6d09fdde0fb910d409b0c1fecdb851
