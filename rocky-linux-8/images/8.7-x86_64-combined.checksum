@@ -1,0 +1,52 @@
+Rocky-8-Azure-Base-8.7-20221113.0.x86_64.vhd: 10737418752 bytes
+SHA256 (Rocky-8-Azure-Base-8.7-20221113.0.x86_64.vhd) = 352d4e5fb16aa51c48fd470ea6d88ab9f9ef3819a53dafd738037086e4abc481
+Rocky-8-Azure-Base.latest.x86_64.qcow2: 10737418752 bytes
+SHA256 (Rocky-8-Azure-Base.latest.x86_64.qcow2) = 352d4e5fb16aa51c48fd470ea6d88ab9f9ef3819a53dafd738037086e4abc481
+Rocky-8-Azure-Base.latest.x86_64.qcow2: 10737418752 bytes
+SHA256 (Rocky-8-Azure-Base.latest.x86_64.qcow2) = 352d4e5fb16aa51c48fd470ea6d88ab9f9ef3819a53dafd738037086e4abc481
+Rocky-8-Azure-LVM-8.7-20221113.0.x86_64.vhd: 10737418752 bytes
+SHA256 (Rocky-8-Azure-LVM-8.7-20221113.0.x86_64.vhd) = 1bbae6fecdc1a0949389881db2be22400480b557a9f9f72e26e147ba85e6904d
+Rocky-8-Azure-LVM.latest.x86_64.qcow2: 10737418752 bytes
+SHA256 (Rocky-8-Azure-LVM.latest.x86_64.qcow2) = 1bbae6fecdc1a0949389881db2be22400480b557a9f9f72e26e147ba85e6904d
+Rocky-8-Container-Base-8.7-20221113.0.x86_64.tar.xz: 46111848 bytes
+SHA256 (Rocky-8-Container-Base-8.7-20221113.0.x86_64.tar.xz) = f5767d94e6bf77250cd75dffbbd921a092026c4e688752635dc39d91d1e34c87
+Rocky-8-Container-Base.latest.x86_64.qcow2: 46111848 bytes
+SHA256 (Rocky-8-Container-Base.latest.x86_64.qcow2) = f5767d94e6bf77250cd75dffbbd921a092026c4e688752635dc39d91d1e34c87
+Rocky-8-Container-Minimal-8.7-20221112.0.x86_64.tar.xz: 32304008 bytes
+SHA256 (Rocky-8-Container-Minimal-8.7-20221112.0.x86_64.tar.xz) = cf846832933dd286c9479c3a8db3317f7ae40865f87f540a90f8febca57c3fbf
+Rocky-8-Container-Minimal.latest.x86_64.qcow2: 32304008 bytes
+SHA256 (Rocky-8-Container-Minimal.latest.x86_64.qcow2) = cf846832933dd286c9479c3a8db3317f7ae40865f87f540a90f8febca57c3fbf
+Rocky-8-Container-UBI-8.7-20221113.0.x86_64.tar.xz: 46687540 bytes
+SHA256 (Rocky-8-Container-UBI-8.7-20221113.0.x86_64.tar.xz) = 3d373885e7e6cfbf638a34df692f2d930e9a51efbe947fdb511d325ff97e02e9
+Rocky-8-Container-UBI.latest.x86_64.qcow2: 46687540 bytes
+SHA256 (Rocky-8-Container-UBI.latest.x86_64.qcow2) = 3d373885e7e6cfbf638a34df692f2d930e9a51efbe947fdb511d325ff97e02e9
+Rocky-8-EC2-Base-8.7-20221113.0.x86_64.qcow2: 2855141376 bytes
+SHA256 (Rocky-8-EC2-Base-8.7-20221113.0.x86_64.qcow2) = 5357f8b52756ff3e27a4e7d12b0a402cf4c9b5d6843d247fbed60962801eae9c
+Rocky-8-EC2-Base-8.7-20221118.0.x86_64.qcow2: 2859597824 bytes
+SHA256 (Rocky-8-EC2-Base-8.7-20221118.0.x86_64.qcow2) = 8312a3779312a91bbded639623a4983742f8c5ad5c7e3a0ec74e5196b2fadcd2
+Rocky-8-EC2-Base.latest.x86_64.qcow2: 2859597824 bytes
+SHA256 (Rocky-8-EC2-Base.latest.x86_64.qcow2) = 8312a3779312a91bbded639623a4983742f8c5ad5c7e3a0ec74e5196b2fadcd2
+Rocky-8-EC2-Base.latest.x86_64.qcow2: 2859597824 bytes
+SHA256 (Rocky-8-EC2-Base.latest.x86_64.qcow2) = 8312a3779312a91bbded639623a4983742f8c5ad5c7e3a0ec74e5196b2fadcd2
+Rocky-8-EC2.latest.x86_64.qcow2: 2859597824 bytes
+SHA256 (Rocky-8-EC2.latest.x86_64.qcow2) = 8312a3779312a91bbded639623a4983742f8c5ad5c7e3a0ec74e5196b2fadcd2
+Rocky-8-EC2-LVM-8.7-20221113.0.x86_64.qcow2: 3036282880 bytes
+SHA256 (Rocky-8-EC2-LVM-8.7-20221113.0.x86_64.qcow2) = 91e855eeca6e5bc1fd1c01e1618731ab77c7b93b826df34c057ffc61b1cb87c5
+Rocky-8-EC2-LVM.latest.x86_64.qcow2: 3036282880 bytes
+SHA256 (Rocky-8-EC2-LVM.latest.x86_64.qcow2) = 91e855eeca6e5bc1fd1c01e1618731ab77c7b93b826df34c057ffc61b1cb87c5
+Rocky-8-GenericCloud-Base-8.7-20221112.0.x86_64.qcow2: 1629880320 bytes
+SHA256 (Rocky-8-GenericCloud-Base-8.7-20221112.0.x86_64.qcow2) = 4ef36a3fbeccc01c15737bef3a3bc5bdc6011d468df8a52487868e8710f1f220
+Rocky-8-GenericCloud-Base-8.7-20221118.0.x86_64.qcow2: 1712521216 bytes
+SHA256 (Rocky-8-GenericCloud-Base-8.7-20221118.0.x86_64.qcow2) = 48fd04bc705a5c3215d569eb9fa589f194c71e95dffc5069062f82edbec81c65
+Rocky-8-GenericCloud-Base.latest.x86_64.qcow2: 1712521216 bytes
+SHA256 (Rocky-8-GenericCloud-Base.latest.x86_64.qcow2) = 48fd04bc705a5c3215d569eb9fa589f194c71e95dffc5069062f82edbec81c65
+Rocky-8-GenericCloud.latest.x86_64.qcow2: 1712521216 bytes
+SHA256 (Rocky-8-GenericCloud.latest.x86_64.qcow2) = 48fd04bc705a5c3215d569eb9fa589f194c71e95dffc5069062f82edbec81c65
+Rocky-8-GenericCloud-LVM-8.7-20221113.0.x86_64.qcow2: 1740308480 bytes
+SHA256 (Rocky-8-GenericCloud-LVM-8.7-20221113.0.x86_64.qcow2) = dae23882b9e7774797fc56aad6a1046a2a6d09fdde0fb910d409b0c1fecdb851
+Rocky-8-GenericCloud-LVM.latest.x86_64.qcow2: 1740308480 bytes
+SHA256 (Rocky-8-GenericCloud-LVM.latest.x86_64.qcow2) = dae23882b9e7774797fc56aad6a1046a2a6d09fdde0fb910d409b0c1fecdb851
+Rocky-8-OCP-8.7-20221112.0.x86_64.qcow2: 1873805312 bytes
+SHA256 (Rocky-8-OCP-8.7-20221112.0.x86_64.qcow2) = aaabcd57e5c27a3cb3f362c45536a68be8bf71bd6b6d46c98072a53a82dd140e
+Rocky-8-OCP.latest.x86_64.qcow2: 1873805312 bytes
+SHA256 (Rocky-8-OCP.latest.x86_64.qcow2) = aaabcd57e5c27a3cb3f362c45536a68be8bf71bd6b6d46c98072a53a82dd140e
