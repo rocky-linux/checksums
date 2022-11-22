@@ -2,32 +2,46 @@ Rocky-8-Azure-Base-8.7-20221113.0.aarch64.vhd: 10737418752 bytes
 SHA256 (Rocky-8-Azure-Base-8.7-20221113.0.aarch64.vhd) = 9bd9074b52a4d8b019ba71eb084981f3713dcfb0fb36be16df0c5039defb726b
 Rocky-8-Azure-Base.latest.aarch64.qcow2: 10737418752 bytes
 SHA256 (Rocky-8-Azure-Base.latest.aarch64.qcow2) = 9bd9074b52a4d8b019ba71eb084981f3713dcfb0fb36be16df0c5039defb726b
+Rocky-8-Azure-Base.latest.aarch64.vhd: 10737418752 bytes
+SHA256 (Rocky-8-Azure-Base.latest.aarch64.vhd) = 9bd9074b52a4d8b019ba71eb084981f3713dcfb0fb36be16df0c5039defb726b
 Rocky-8-Azure-Base.latest.aarch64.qcow2: 10737418752 bytes
 SHA256 (Rocky-8-Azure-Base.latest.aarch64.qcow2) = 9bd9074b52a4d8b019ba71eb084981f3713dcfb0fb36be16df0c5039defb726b
+Rocky-8-Azure.latest.aarch64.vhd: 10737418752 bytes
+SHA256 (Rocky-8-Azure.latest.aarch64.vhd) = 9bd9074b52a4d8b019ba71eb084981f3713dcfb0fb36be16df0c5039defb726b
 Rocky-8-Azure-LVM-8.7-20221113.0.aarch64.vhd: 10737418752 bytes
 SHA256 (Rocky-8-Azure-LVM-8.7-20221113.0.aarch64.vhd) = e437b64b189c1d5b2b0d2fe5bbe8a0d4611bebf5401c753e836b1167af0a50d0
 Rocky-8-Azure-LVM.latest.aarch64.qcow2: 10737418752 bytes
 SHA256 (Rocky-8-Azure-LVM.latest.aarch64.qcow2) = e437b64b189c1d5b2b0d2fe5bbe8a0d4611bebf5401c753e836b1167af0a50d0
+Rocky-8-Azure-LVM.latest.aarch64.vhd: 10737418752 bytes
+SHA256 (Rocky-8-Azure-LVM.latest.aarch64.vhd) = e437b64b189c1d5b2b0d2fe5bbe8a0d4611bebf5401c753e836b1167af0a50d0
 Rocky-8-Container-Base-8.7-20221113.0.aarch64.tar.xz: 43217260 bytes
 SHA256 (Rocky-8-Container-Base-8.7-20221113.0.aarch64.tar.xz) = 20cb94bd31f325c67dd7f01703ec53df4abe283d0b09d0c7fdfacf7c5508549d
 Rocky-8-Container-Base.latest.aarch64.qcow2: 43217260 bytes
 SHA256 (Rocky-8-Container-Base.latest.aarch64.qcow2) = 20cb94bd31f325c67dd7f01703ec53df4abe283d0b09d0c7fdfacf7c5508549d
+Rocky-8-Container-Base.latest.aarch64.tar.xz: 43217260 bytes
+SHA256 (Rocky-8-Container-Base.latest.aarch64.tar.xz) = 20cb94bd31f325c67dd7f01703ec53df4abe283d0b09d0c7fdfacf7c5508549d
 Rocky-8-Container-Minimal-8.7-20221112.0.aarch64.tar.xz: 30027984 bytes
 SHA256 (Rocky-8-Container-Minimal-8.7-20221112.0.aarch64.tar.xz) = 0c6fe3170f2aa266636dfe5415a22e90e75d8cf919ac1cdcfcfccc9391765e39
 Rocky-8-Container-Minimal.latest.aarch64.qcow2: 30027984 bytes
 SHA256 (Rocky-8-Container-Minimal.latest.aarch64.qcow2) = 0c6fe3170f2aa266636dfe5415a22e90e75d8cf919ac1cdcfcfccc9391765e39
+Rocky-8-Container-Minimal.latest.aarch64.tar.xz: 30027984 bytes
+SHA256 (Rocky-8-Container-Minimal.latest.aarch64.tar.xz) = 0c6fe3170f2aa266636dfe5415a22e90e75d8cf919ac1cdcfcfccc9391765e39
 Rocky-8-Container-UBI-8.7-20221113.0.aarch64.tar.xz: 44660900 bytes
 SHA256 (Rocky-8-Container-UBI-8.7-20221113.0.aarch64.tar.xz) = 882f1ed11e616262fb07238b0d8560561b17e8adb4b74f6ff63d63da82dfed2a
 Rocky-8-Container-UBI.latest.aarch64.qcow2: 44660900 bytes
 SHA256 (Rocky-8-Container-UBI.latest.aarch64.qcow2) = 882f1ed11e616262fb07238b0d8560561b17e8adb4b74f6ff63d63da82dfed2a
+Rocky-8-Container-UBI.latest.aarch64.tar.xz: 44660900 bytes
+SHA256 (Rocky-8-Container-UBI.latest.aarch64.tar.xz) = 882f1ed11e616262fb07238b0d8560561b17e8adb4b74f6ff63d63da82dfed2a
 Rocky-8-EC2-Base-8.7-20221113.0.aarch64.qcow2: 2727870464 bytes
 SHA256 (Rocky-8-EC2-Base-8.7-20221113.0.aarch64.qcow2) = 36ba67fb06a24bfaa9ecdf2ea6fa0e6aceda73cf466088913512fac50cc012e8
 Rocky-8-EC2-Base-8.7-20221118.0.aarch64.qcow2: 2724986880 bytes
 SHA256 (Rocky-8-EC2-Base-8.7-20221118.0.aarch64.qcow2) = 078354fedba046c11ea1a1507e2816db2a9e82bec2a2c489becca8a9ecab4899
-Rocky-8-EC2-Base.latest.aarch64.qcow2: 2724986880 bytes
-SHA256 (Rocky-8-EC2-Base.latest.aarch64.qcow2) = 078354fedba046c11ea1a1507e2816db2a9e82bec2a2c489becca8a9ecab4899
-Rocky-8-EC2.latest.aarch64.qcow2: 2724986880 bytes
-SHA256 (Rocky-8-EC2.latest.aarch64.qcow2) = 078354fedba046c11ea1a1507e2816db2a9e82bec2a2c489becca8a9ecab4899
+Rocky-8-EC2-Base-8.7-20221119.0.aarch64.qcow2: 2879127552 bytes
+SHA256 (Rocky-8-EC2-Base-8.7-20221119.0.aarch64.qcow2) = b1db132f527c827058ff2ee175a5c492cc896a52313c764e848dcab607c7e4e3
+Rocky-8-EC2-Base.latest.aarch64.qcow2: 2879127552 bytes
+SHA256 (Rocky-8-EC2-Base.latest.aarch64.qcow2) = b1db132f527c827058ff2ee175a5c492cc896a52313c764e848dcab607c7e4e3
+Rocky-8-EC2.latest.aarch64.qcow2: 2879127552 bytes
+SHA256 (Rocky-8-EC2.latest.aarch64.qcow2) = b1db132f527c827058ff2ee175a5c492cc896a52313c764e848dcab607c7e4e3
 Rocky-8-EC2-LVM-8.7-20221113.0.aarch64.qcow2: 2942959616 bytes
 SHA256 (Rocky-8-EC2-LVM-8.7-20221113.0.aarch64.qcow2) = 31e0c4def86b8a6a97b9c169cc136c091c05be9f4f08968edcc052e77fc9f088
 Rocky-8-EC2-LVM.latest.aarch64.qcow2: 2942959616 bytes
@@ -48,3 +62,15 @@ Rocky-8-OCP-8.7-20221112.0.aarch64.qcow2: 1731067904 bytes
 SHA256 (Rocky-8-OCP-8.7-20221112.0.aarch64.qcow2) = c68dd89259dcc47ac8ad6fcd3d5b65f7c1f78d5a319312136191243d9e6adf0c
 Rocky-8-OCP.latest.aarch64.qcow2: 1731067904 bytes
 SHA256 (Rocky-8-OCP.latest.aarch64.qcow2) = c68dd89259dcc47ac8ad6fcd3d5b65f7c1f78d5a319312136191243d9e6adf0c
+Rocky-8-Vagrant-Libvirt-8.7-20221121.0.aarch64.box: 1142232478 bytes
+SHA256 (Rocky-8-Vagrant-Libvirt-8.7-20221121.0.aarch64.box) = 45cd70f1b6c2b752338a75b5df0c43a7e2ba82d91dda2444bfd4a5e3f319e381
+Rocky-8-Vagrant-Libvirt.latest.aarch64.box: 1142232478 bytes
+SHA256 (Rocky-8-Vagrant-Libvirt.latest.aarch64.box) = 45cd70f1b6c2b752338a75b5df0c43a7e2ba82d91dda2444bfd4a5e3f319e381
+Rocky-8-Vagrant-Vbox-8.7-20221121.0.aarch64.box: 1150527735 bytes
+SHA256 (Rocky-8-Vagrant-Vbox-8.7-20221121.0.aarch64.box) = d1a058e50de82f516bdb31ae0fdedd9d40923f2c7aebf0cc5ec15a71f4063908
+Rocky-8-Vagrant-Vbox.latest.aarch64.box: 1150527735 bytes
+SHA256 (Rocky-8-Vagrant-Vbox.latest.aarch64.box) = d1a058e50de82f516bdb31ae0fdedd9d40923f2c7aebf0cc5ec15a71f4063908
+Rocky-8-Vagrant-VMware-8.7-20221122.0.aarch64.box: 1066669611 bytes
+SHA256 (Rocky-8-Vagrant-VMware-8.7-20221122.0.aarch64.box) = bc549be8075076eaa654061b352417fa504445da2498ccc10c8a03812ecb3a6c
+Rocky-8-Vagrant-VMware.latest.aarch64.box: 1066669611 bytes
+SHA256 (Rocky-8-Vagrant-VMware.latest.aarch64.box) = bc549be8075076eaa654061b352417fa504445da2498ccc10c8a03812ecb3a6c
