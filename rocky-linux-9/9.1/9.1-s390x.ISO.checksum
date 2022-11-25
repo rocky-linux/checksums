@@ -1,12 +1,12 @@
 Rocky-9.1-s390x-boot.iso: 452145152 bytes
 SHA256 (Rocky-9.1-s390x-boot.iso) = 22851c21e08337ab5b4b685d59770f20cb7acb60380c971052819f4776033b1b
 Rocky-s390x-minimal.iso: 977207296 bytes
-SHA256 (Rocky-s390x-minimal.iso) = d30d922a39152c7e4288d2e294fa531d2e054e5a3865283ae023ddbb86d61bef
-Rocky-9.1-s390x-dvd.iso: 6577782784 bytes
-SHA256 (Rocky-9.1-s390x-dvd.iso) = 140bd6c896ff56fde2597290629690bd2d21e8422df847d7fd7fc7a57f6bfdb1
-Rocky-s390x-dvd.iso: 6577782784 bytes
-SHA256 (Rocky-s390x-dvd.iso) = 140bd6c896ff56fde2597290629690bd2d21e8422df847d7fd7fc7a57f6bfdb1
+SHA256 (Rocky-s390x-minimal.iso) = 48293268d1f60435115ffca1c408ed0db2f18ef346d6ca55b38cd11ce9007aad
+Rocky-9.1-s390x-dvd.iso: 6573916160 bytes
+SHA256 (Rocky-9.1-s390x-dvd.iso) = e452449df7aa9ae4037f5b0b42f14c48aed08b7d3a7f60283484da8717085789
+Rocky-s390x-dvd.iso: 6573916160 bytes
+SHA256 (Rocky-s390x-dvd.iso) = e452449df7aa9ae4037f5b0b42f14c48aed08b7d3a7f60283484da8717085789
 Rocky-s390x-boot.iso: 452145152 bytes
 SHA256 (Rocky-s390x-boot.iso) = 22851c21e08337ab5b4b685d59770f20cb7acb60380c971052819f4776033b1b
 Rocky-9.1-s390x-minimal.iso: 977207296 bytes
-SHA256 (Rocky-9.1-s390x-minimal.iso) = d30d922a39152c7e4288d2e294fa531d2e054e5a3865283ae023ddbb86d61bef
+SHA256 (Rocky-9.1-s390x-minimal.iso) = 48293268d1f60435115ffca1c408ed0db2f18ef346d6ca55b38cd11ce9007aad
