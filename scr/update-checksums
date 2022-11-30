@@ -2,4 +2,16 @@
 # Run this to update checksums, providing the correct values to pull down the
 # correct release and architectures
 
+VER=$1
+ARCH=$2
+TYPE=$3
 
+if [[ "${TYPE}" == "images" ]]; then
+  OUTPUT="${1}-${2}-combined.checksum"
+elif [[ "${TYPE}" == "live" ]]; then
+  OUTPUT="${1}-${2}-live.ISO.checksum"
+elif [[ "${TYPE}" == "isos" ]]; then
+  OUTPUT="${1}-${2}.ISO.checksum"
+fi
+
+curl https://dl.rockylinux.org/stg/rocky/${1}/${3}/${2}/CHECKSUM > ${OUTPUT}

@@ -4,10 +4,12 @@ Rocky-9-GenericCloud-Base-9.1-20221123.0.s390x.qcow2: 757268480 bytes
 SHA256 (Rocky-9-GenericCloud-Base-9.1-20221123.0.s390x.qcow2) = 8031acfd5b600f70f615682778c5fb42cc181b6507b4820b53e149c678d58eff
 Rocky-9-Container-Base.latest.s390x.tar.xz: 39284316 bytes
 SHA256 (Rocky-9-Container-Base.latest.s390x.tar.xz) = 9a15b65f02d51a597ed505cef3a8fcbe130e7a0a22c754fedfd807c2d16c127e
-Rocky-9-GenericCloud-Base.latest.s390x.qcow2: 757268480 bytes
-SHA256 (Rocky-9-GenericCloud-Base.latest.s390x.qcow2) = 8031acfd5b600f70f615682778c5fb42cc181b6507b4820b53e149c678d58eff
-Rocky-9-GenericCloud.latest.s390x.qcow2: 757268480 bytes
-SHA256 (Rocky-9-GenericCloud.latest.s390x.qcow2) = 8031acfd5b600f70f615682778c5fb42cc181b6507b4820b53e149c678d58eff
+Rocky-9-GenericCloud-Base.latest.s390x.qcow2: 755171328 bytes
+SHA256 (Rocky-9-GenericCloud-Base.latest.s390x.qcow2) = 48dd5636b64ca0f0c1bf7cc98c5480038d327afc783ef51e33b250fb920336d3
+Rocky-9-GenericCloud-Base-9.1-20221129.0.s390x.qcow2: 755171328 bytes
+SHA256 (Rocky-9-GenericCloud-Base-9.1-20221129.0.s390x.qcow2) = 48dd5636b64ca0f0c1bf7cc98c5480038d327afc783ef51e33b250fb920336d3
+Rocky-9-GenericCloud.latest.s390x.qcow2: 755171328 bytes
+SHA256 (Rocky-9-GenericCloud.latest.s390x.qcow2) = 48dd5636b64ca0f0c1bf7cc98c5480038d327afc783ef51e33b250fb920336d3
 Rocky-9-Container-Minimal-9.1-20221123.0.s390x.tar.xz: 22351224 bytes
 SHA256 (Rocky-9-Container-Minimal-9.1-20221123.0.s390x.tar.xz) = c8a66dfec18940db63c4fbbbb9f73d13fb23fc115b6d449be3bda70398d397b4
 Rocky-9-Container-Base-9.1-20221123.0.s390x.tar.xz: 39284316 bytes
