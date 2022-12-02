@@ -2,20 +2,14 @@ Rocky-8-Azure-Base-8.7-20221124.0.x86_64.vhd: 10737418752 bytes
 SHA256 (Rocky-8-Azure-Base-8.7-20221124.0.x86_64.vhd) = d2299dd0357d401a4eca60b0cb0684d1ed63519710091b78a8b4f58a760351db
 Rocky-8-Azure-Base-8.7-20221129.0.x86_64.vhd: 10737418752 bytes
 SHA256 (Rocky-8-Azure-Base-8.7-20221129.0.x86_64.vhd) = 468614896f7bdb9d55caff88850662b2bea38d2e60f9c2c91009556bce4da123
-Rocky-8-Azure-Base.latest.x86_64.qcow2: 10737418752 bytes
-SHA256 (Rocky-8-Azure-Base.latest.x86_64.qcow2) = 352d4e5fb16aa51c48fd470ea6d88ab9f9ef3819a53dafd738037086e4abc481
 Rocky-8-Azure-Base.latest.x86_64.vhd: 10737418752 bytes
 SHA256 (Rocky-8-Azure-Base.latest.x86_64.vhd) = 468614896f7bdb9d55caff88850662b2bea38d2e60f9c2c91009556bce4da123
-Rocky-8-Azure-Base.latest.x86_64.qcow2: 10737418752 bytes
-SHA256 (Rocky-8-Azure-Base.latest.x86_64.qcow2) = 352d4e5fb16aa51c48fd470ea6d88ab9f9ef3819a53dafd738037086e4abc481
 Rocky-8-Azure.latest.x86_64.vhd: 10737418752 bytes
 SHA256 (Rocky-8-Azure.latest.x86_64.vhd) = 468614896f7bdb9d55caff88850662b2bea38d2e60f9c2c91009556bce4da123
 Rocky-8-Azure-LVM-8.7-20221124.0.x86_64.vhd: 10737418752 bytes
 SHA256 (Rocky-8-Azure-LVM-8.7-20221124.0.x86_64.vhd) = 03bbf2d60f7f7b6a5cd00c7f7aacaead0537a89e8fdcae59cd98bad21f40d045
 Rocky-8-Azure-LVM-8.7-20221129.0.x86_64.vhd: 10737418752 bytes
 SHA256 (Rocky-8-Azure-LVM-8.7-20221129.0.x86_64.vhd) = b00d8c5f16ce63ef18ed5a3e0e3bb2c391098ac332268d30c9c079f909969499
-Rocky-8-Azure-LVM.latest.x86_64.qcow2: 10737418752 bytes
-SHA256 (Rocky-8-Azure-LVM.latest.x86_64.qcow2) = 1bbae6fecdc1a0949389881db2be22400480b557a9f9f72e26e147ba85e6904d
 Rocky-8-Azure-LVM.latest.x86_64.vhd: 10737418752 bytes
 SHA256 (Rocky-8-Azure-LVM.latest.x86_64.vhd) = b00d8c5f16ce63ef18ed5a3e0e3bb2c391098ac332268d30c9c079f909969499
 Rocky-8-Container-Base-8.7-20221113.0.x86_64.tar.xz: 46111848 bytes
