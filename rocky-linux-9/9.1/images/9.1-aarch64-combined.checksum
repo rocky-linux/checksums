@@ -12,8 +12,8 @@ Rocky-9-GenericCloud-Base.latest.aarch64.qcow2: 802095104 bytes
 SHA256 (Rocky-9-GenericCloud-Base.latest.aarch64.qcow2) = 8e680f226adeaf9f09cfc7fc9b7839db3ca0f40c4a2e7838de605571d1b33fbb
 Rocky-9-Vagrant-Libvirt-9.1-20221124.0.aarch64.box: 703617447 bytes
 SHA256 (Rocky-9-Vagrant-Libvirt-9.1-20221124.0.aarch64.box) = f9c7837115d705acd1005c77ff9d4910564ba74766c15750b0072e95967d52fe
-Rocky-9-Vagrant-Vbox.latest.aarch64.box: 977179759 bytes
-SHA256 (Rocky-9-Vagrant-Vbox.latest.aarch64.box) = 680a54a4edd6d18f340de73861a6740ac2aaf1e698a8b85405965fff41f9c0be
+Rocky-9-Vagrant-Vbox.latest.aarch64.box: 938778351 bytes
+SHA256 (Rocky-9-Vagrant-Vbox.latest.aarch64.box) = 87701977fdd5d79e2bc37075348511182c40d450a71e37c54e99b20cf27ed9aa
 Rocky-9-OCP-9.1-20221123.0.aarch64.qcow2: 933494784 bytes
 SHA256 (Rocky-9-OCP-9.1-20221123.0.aarch64.qcow2) = 709b006744996af6c31d62d5ee2f5fcc9899f49a8d95bfc53cb4fab4af64b93e
 Rocky-9-GenericCloud.latest.aarch64.qcow2: 802095104 bytes
@@ -28,8 +28,8 @@ Rocky-9-Container-Minimal.latest.aarch64.tar.xz: 22796388 bytes
 SHA256 (Rocky-9-Container-Minimal.latest.aarch64.tar.xz) = 79444770ab26636200b456232ae5e90f8d74a6a074b483e9ca38ebb17c213849
 Rocky-9-EC2-Base.latest.aarch64.qcow2: 1484718080 bytes
 SHA256 (Rocky-9-EC2-Base.latest.aarch64.qcow2) = c1c8539667d088b7cbc477a82d6b66ced5c6b2c98104a01af49cd359e94253c2
-Rocky-9-OCP.latest.aarch64.qcow2: 972881920 bytes
-SHA256 (Rocky-9-OCP.latest.aarch64.qcow2) = e52016bd548a0fcff3cd9700851a78b8ad48ee0cfa9cb81d356496420be2cb70
+Rocky-9-OCP.latest.aarch64.qcow2: 1066795008 bytes
+SHA256 (Rocky-9-OCP.latest.aarch64.qcow2) = 3de8c6a4cab721c93ccc40f58622c2ee8136cd3b28137e1c3e6ac793833686f1
 Rocky-9-GenericCloud-LVM-9.1-20221123.0.aarch64.qcow2: 861995008 bytes
 SHA256 (Rocky-9-GenericCloud-LVM-9.1-20221123.0.aarch64.qcow2) = e799e2f58176182a0de361cfbcea20bff531d08d070d23d01b751122f45072f4
 Rocky-9-Vagrant-VMware-9.1-20221124.0.aarch64.box: 655918069 bytes
@@ -38,6 +38,8 @@ Rocky-9-EC2-Base-9.1-20221130.0.aarch64.qcow2: 1484718080 bytes
 SHA256 (Rocky-9-EC2-Base-9.1-20221130.0.aarch64.qcow2) = c1c8539667d088b7cbc477a82d6b66ced5c6b2c98104a01af49cd359e94253c2
 Rocky-9-OCP-9.1-20221130.0.aarch64.qcow2: 972881920 bytes
 SHA256 (Rocky-9-OCP-9.1-20221130.0.aarch64.qcow2) = e52016bd548a0fcff3cd9700851a78b8ad48ee0cfa9cb81d356496420be2cb70
+Rocky-9-Vagrant-Vbox-9.1-20221213.0.aarch64.box: 938778351 bytes
+SHA256 (Rocky-9-Vagrant-Vbox-9.1-20221213.0.aarch64.box) = 87701977fdd5d79e2bc37075348511182c40d450a71e37c54e99b20cf27ed9aa
 Rocky-9-GenericCloud-Base-9.1-20221123.0.aarch64.qcow2: 801112064 bytes
 SHA256 (Rocky-9-GenericCloud-Base-9.1-20221123.0.aarch64.qcow2) = 8f231d9be1951158ba0ebcb5e5b1fe84f941e7cc02c5afec09a94456e9fd1c05
 Rocky-9-Container-Base.latest.aarch64.tar.xz: 36893628 bytes
@@ -46,26 +48,34 @@ Rocky-9-EC2-LVM.latest.aarch64.qcow2: 1607335936 bytes
 SHA256 (Rocky-9-EC2-LVM.latest.aarch64.qcow2) = 7345236ecc904645c428fd790beb5916cd6941e7be7ad36cf65b4a29ea646662
 Rocky-9-EC2-LVM-9.1-20221130.0.aarch64.qcow2: 1607335936 bytes
 SHA256 (Rocky-9-EC2-LVM-9.1-20221130.0.aarch64.qcow2) = 7345236ecc904645c428fd790beb5916cd6941e7be7ad36cf65b4a29ea646662
-Rocky-9-Vagrant-Libvirt.latest.aarch64.box: 703617447 bytes
-SHA256 (Rocky-9-Vagrant-Libvirt.latest.aarch64.box) = f9c7837115d705acd1005c77ff9d4910564ba74766c15750b0072e95967d52fe
+Rocky-9-Vagrant-Libvirt.latest.aarch64.box: 673690702 bytes
+SHA256 (Rocky-9-Vagrant-Libvirt.latest.aarch64.box) = de5d577b096c17ec017527a81b18ce017a40fe39e7540d256e5967126e24c49b
 Rocky-9-Azure-LVM.latest.aarch64.vhd: 10737418752 bytes
 SHA256 (Rocky-9-Azure-LVM.latest.aarch64.vhd) = 3ffba2390fc1ec3fb261bb82c7c72d8029b95bb9cd75e233d42321163f3024db
+Rocky-9-Azure-Base-9.1-20221206.0.aarch64.vhd: 10737418752 bytes
+SHA256 (Rocky-9-Azure-Base-9.1-20221206.0.aarch64.vhd) = 64e12ccd6dc9a14dadb17310bfe189e0523a3dcfa4db541da92ae92d89deb5c9
 Rocky-9-Azure-LVM-9.1-20221130.0.aarch64.vhd: 10737418752 bytes
 SHA256 (Rocky-9-Azure-LVM-9.1-20221130.0.aarch64.vhd) = 3ffba2390fc1ec3fb261bb82c7c72d8029b95bb9cd75e233d42321163f3024db
+Rocky-9-Vagrant-VMware-9.1-20221213.0.aarch64.box: 655796287 bytes
+SHA256 (Rocky-9-Vagrant-VMware-9.1-20221213.0.aarch64.box) = 9f2d8cd902c01ab0f162514333551782daa55a0f0b2b504e29636f5d1a294ebe
 Rocky-9-Container-UBI-9.1-20221123.0.aarch64.tar.xz: 47202816 bytes
 SHA256 (Rocky-9-Container-UBI-9.1-20221123.0.aarch64.tar.xz) = 75ff0884d8d6ef0e7dc1a2d4d706fccc3c69859b9cf08a5a9272247c2861a494
 Rocky-9-Azure.latest.aarch64.vhd: 10737418752 bytes
-SHA256 (Rocky-9-Azure.latest.aarch64.vhd) = 27546cbf78e248b8fd3afc01fabeb5cbcd5c333f241bdf8574c2afe120b73260
+SHA256 (Rocky-9-Azure.latest.aarch64.vhd) = 64e12ccd6dc9a14dadb17310bfe189e0523a3dcfa4db541da92ae92d89deb5c9
+Rocky-9-OCP-9.1-20221214.0.aarch64.qcow2: 1066795008 bytes
+SHA256 (Rocky-9-OCP-9.1-20221214.0.aarch64.qcow2) = 3de8c6a4cab721c93ccc40f58622c2ee8136cd3b28137e1c3e6ac793833686f1
 Rocky-9-Azure-Base.latest.aarch64.vhd: 10737418752 bytes
-SHA256 (Rocky-9-Azure-Base.latest.aarch64.vhd) = 27546cbf78e248b8fd3afc01fabeb5cbcd5c333f241bdf8574c2afe120b73260
+SHA256 (Rocky-9-Azure-Base.latest.aarch64.vhd) = 64e12ccd6dc9a14dadb17310bfe189e0523a3dcfa4db541da92ae92d89deb5c9
 Rocky-9-Azure-Base-9.1-20221130.0.aarch64.vhd: 10737418752 bytes
 SHA256 (Rocky-9-Azure-Base-9.1-20221130.0.aarch64.vhd) = 27546cbf78e248b8fd3afc01fabeb5cbcd5c333f241bdf8574c2afe120b73260
 Rocky-9-Azure-LVM-9.1-20221123.0.aarch64.vhd: 10737418752 bytes
 SHA256 (Rocky-9-Azure-LVM-9.1-20221123.0.aarch64.vhd) = edf415e5bcb3518519b59119bc002b03be7d803d0269fcf51d694f8b7c93e62b
 Rocky-9-Container-UBI.latest.aarch64.tar.xz: 47202816 bytes
 SHA256 (Rocky-9-Container-UBI.latest.aarch64.tar.xz) = 75ff0884d8d6ef0e7dc1a2d4d706fccc3c69859b9cf08a5a9272247c2861a494
-Rocky-9-Vagrant-VMware.latest.aarch64.box: 655918069 bytes
-SHA256 (Rocky-9-Vagrant-VMware.latest.aarch64.box) = 9533fb8df480f58d134e9f7e258d9db9a6118f7fe44d101d790320506ccdf247
+Rocky-9-Vagrant-Libvirt-9.1-20221213.0.aarch64.box: 673690702 bytes
+SHA256 (Rocky-9-Vagrant-Libvirt-9.1-20221213.0.aarch64.box) = de5d577b096c17ec017527a81b18ce017a40fe39e7540d256e5967126e24c49b
+Rocky-9-Vagrant-VMware.latest.aarch64.box: 655796287 bytes
+SHA256 (Rocky-9-Vagrant-VMware.latest.aarch64.box) = 9f2d8cd902c01ab0f162514333551782daa55a0f0b2b504e29636f5d1a294ebe
 Rocky-9-Vagrant-Vbox-9.1-20221124.0.aarch64.box: 977179759 bytes
 SHA256 (Rocky-9-Vagrant-Vbox-9.1-20221124.0.aarch64.box) = 680a54a4edd6d18f340de73861a6740ac2aaf1e698a8b85405965fff41f9c0be
 Rocky-9-Azure-Base-9.1-20221123.0.aarch64.vhd: 10737418752 bytes
