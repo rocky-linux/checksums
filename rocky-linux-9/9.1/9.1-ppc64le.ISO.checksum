@@ -1,16 +1,16 @@
-Rocky-ppc64le-dvd.iso: 7138836480 bytes
+# Rocky-ppc64le-dvd.iso: 7138836480 bytes
 SHA256 (Rocky-ppc64le-dvd.iso) = afbf00bf6dd1de64687e299e3b897bcabe76b03acb28d653ff805ded5125d2f0
-Rocky-9.1-20221215.1-ppc64le-dvd.iso: 7138836480 bytes
+# Rocky-9.1-20221215.1-ppc64le-dvd.iso: 7138836480 bytes
 SHA256 (Rocky-9.1-20221215.1-ppc64le-dvd.iso) = afbf00bf6dd1de64687e299e3b897bcabe76b03acb28d653ff805ded5125d2f0
-Rocky-9.1-ppc64le-minimal.iso: 1408237568 bytes
+# Rocky-9.1-ppc64le-minimal.iso: 1408237568 bytes
 SHA256 (Rocky-9.1-ppc64le-minimal.iso) = 82545e8df2f48b353570bc84eeddd54bb4c280612640666874bc3113db57f70b
-Rocky-ppc64le-boot.iso: 844070912 bytes
+# Rocky-ppc64le-boot.iso: 844070912 bytes
 SHA256 (Rocky-ppc64le-boot.iso) = a2631f03a0de0734c1ddd3cd045582deb48c6a639b3074b981412f0722940ed9
-Rocky-ppc64le-minimal.iso: 1408237568 bytes
+# Rocky-ppc64le-minimal.iso: 1408237568 bytes
 SHA256 (Rocky-ppc64le-minimal.iso) = 6f11bec41470cbbb24bf819ba02e4dca1e7667c06dc6e3a4d987e02f4f01eb29
-Rocky-9.1-20221215.1-ppc64le-minimal.iso: 1408237568 bytes
+# Rocky-9.1-20221215.1-ppc64le-minimal.iso: 1408237568 bytes
 SHA256 (Rocky-9.1-20221215.1-ppc64le-minimal.iso) = 6f11bec41470cbbb24bf819ba02e4dca1e7667c06dc6e3a4d987e02f4f01eb29
-Rocky-9.1-ppc64le-dvd.iso: 7138902016 bytes
+# Rocky-9.1-ppc64le-dvd.iso: 7138902016 bytes
 SHA256 (Rocky-9.1-ppc64le-dvd.iso) = 2e9aaa001a8d1ca4d27b908a88182ec9058c89810d85af3f2c83d5e1377cc0df
-Rocky-9.1-ppc64le-boot.iso: 844070912 bytes
+# Rocky-9.1-ppc64le-boot.iso: 844070912 bytes
 SHA256 (Rocky-9.1-ppc64le-boot.iso) = a2631f03a0de0734c1ddd3cd045582deb48c6a639b3074b981412f0722940ed9

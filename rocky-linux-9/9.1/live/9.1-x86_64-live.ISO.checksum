@@ -1,20 +1,20 @@
-Rocky-9.1-MATE-x86_64-20221124.0.iso: 2203779072 bytes
+# Rocky-9.1-MATE-x86_64-20221124.0.iso: 2203779072 bytes
 SHA256 (Rocky-9.1-MATE-x86_64-20221124.0.iso) = 07c148b0a4163713c03e8216e818bf681de0d556d0f8028244f8435cec2559be
-Rocky-9-Workstation-x86_64-latest.iso: 1892122624 bytes
+# Rocky-9-Workstation-x86_64-latest.iso: 1892122624 bytes
 SHA256 (Rocky-9-Workstation-x86_64-latest.iso) = e7a72bbf741c3faf4dbfb497c6a89a7f50e287bf3df9e749486ffb0b16ea75fe
-Rocky-9-MATE-x86_64-latest.iso: 2203779072 bytes
+# Rocky-9-MATE-x86_64-latest.iso: 2203779072 bytes
 SHA256 (Rocky-9-MATE-x86_64-latest.iso) = 07c148b0a4163713c03e8216e818bf681de0d556d0f8028244f8435cec2559be
-Rocky-9.1-KDE-x86_64-20221125.0.iso: 2348810240 bytes
+# Rocky-9.1-KDE-x86_64-20221125.0.iso: 2348810240 bytes
 SHA256 (Rocky-9.1-KDE-x86_64-20221125.0.iso) = 872e98875ed77c9c329ed55277111a7441c1c69dec6647b15848057529894a53
-Rocky-9.1-Workstation-x86_64-20221124.0.iso: 1892122624 bytes
+# Rocky-9.1-Workstation-x86_64-20221124.0.iso: 1892122624 bytes
 SHA256 (Rocky-9.1-Workstation-x86_64-20221124.0.iso) = e7a72bbf741c3faf4dbfb497c6a89a7f50e287bf3df9e749486ffb0b16ea75fe
-Rocky-9-XFCE-x86_64-latest.iso: 1682915328 bytes
+# Rocky-9-XFCE-x86_64-latest.iso: 1682915328 bytes
 SHA256 (Rocky-9-XFCE-x86_64-latest.iso) = dc5796ee8d4cb3c3bf976098416025f852906c6856176f3d3a75f750aba66bd6
-Rocky-9.1-Workstation-Lite-x86_64-20221124.0.iso: 1754726400 bytes
+# Rocky-9.1-Workstation-Lite-x86_64-20221124.0.iso: 1754726400 bytes
 SHA256 (Rocky-9.1-Workstation-Lite-x86_64-20221124.0.iso) = 1b5604b105d6f0a6e43787db01467c7436b353c2ce4bb341a0ab571ffca6b445
-Rocky-9-Workstation-Lite-x86_64-latest.iso: 1754726400 bytes
+# Rocky-9-Workstation-Lite-x86_64-latest.iso: 1754726400 bytes
 SHA256 (Rocky-9-Workstation-Lite-x86_64-latest.iso) = 1b5604b105d6f0a6e43787db01467c7436b353c2ce4bb341a0ab571ffca6b445
-Rocky-9.1-XFCE-x86_64-20221124.0.iso: 1682915328 bytes
+# Rocky-9.1-XFCE-x86_64-20221124.0.iso: 1682915328 bytes
 SHA256 (Rocky-9.1-XFCE-x86_64-20221124.0.iso) = dc5796ee8d4cb3c3bf976098416025f852906c6856176f3d3a75f750aba66bd6
-Rocky-9-KDE-x86_64-latest.iso: 2348810240 bytes
+# Rocky-9-KDE-x86_64-latest.iso: 2348810240 bytes
 SHA256 (Rocky-9-KDE-x86_64-latest.iso) = 872e98875ed77c9c329ed55277111a7441c1c69dec6647b15848057529894a53

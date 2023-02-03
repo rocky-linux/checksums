@@ -1,20 +1,20 @@
-Rocky-9.1-Workstation-aarch64-20221124.0.iso: 1802094592 bytes
+# Rocky-9.1-Workstation-aarch64-20221124.0.iso: 1802094592 bytes
 SHA256 (Rocky-9.1-Workstation-aarch64-20221124.0.iso) = c6af262069bcc0b29ba3ec7b7261bc06fa16a0057c1a25bc6e1821cfd171804b
-Rocky-9.1-KDE-aarch64-20221125.0.iso: 2265323520 bytes
+# Rocky-9.1-KDE-aarch64-20221125.0.iso: 2265323520 bytes
 SHA256 (Rocky-9.1-KDE-aarch64-20221125.0.iso) = b86d89a871f0dfbf0712128e2a40a074367683aaf4444416010f684cd3ddca92
-Rocky-9-MATE-aarch64-latest.iso: 2118055936 bytes
+# Rocky-9-MATE-aarch64-latest.iso: 2118055936 bytes
 SHA256 (Rocky-9-MATE-aarch64-latest.iso) = 164dd01c00b1c9f01d7cf387727f4f3c4da8646613e48faa8bef175fa6feb97b
-Rocky-9.1-MATE-aarch64-20221124.0.iso: 2118055936 bytes
+# Rocky-9.1-MATE-aarch64-20221124.0.iso: 2118055936 bytes
 SHA256 (Rocky-9.1-MATE-aarch64-20221124.0.iso) = 164dd01c00b1c9f01d7cf387727f4f3c4da8646613e48faa8bef175fa6feb97b
-Rocky-9-Workstation-aarch64-latest.iso: 1802094592 bytes
+# Rocky-9-Workstation-aarch64-latest.iso: 1802094592 bytes
 SHA256 (Rocky-9-Workstation-aarch64-latest.iso) = c6af262069bcc0b29ba3ec7b7261bc06fa16a0057c1a25bc6e1821cfd171804b
-Rocky-9.1-XFCE-aarch64-20221124.0.iso: 1604823040 bytes
+# Rocky-9.1-XFCE-aarch64-20221124.0.iso: 1604823040 bytes
 SHA256 (Rocky-9.1-XFCE-aarch64-20221124.0.iso) = d9ee7c2d6196210a42ce9a347a61a05f3a667322b9e4a75d68dd469f1c7601a0
-Rocky-9-KDE-aarch64-latest.iso: 2265323520 bytes
+# Rocky-9-KDE-aarch64-latest.iso: 2265323520 bytes
 SHA256 (Rocky-9-KDE-aarch64-latest.iso) = b86d89a871f0dfbf0712128e2a40a074367683aaf4444416010f684cd3ddca92
-Rocky-9-Workstation-Lite-aarch64-latest.iso: 1669883904 bytes
+# Rocky-9-Workstation-Lite-aarch64-latest.iso: 1669883904 bytes
 SHA256 (Rocky-9-Workstation-Lite-aarch64-latest.iso) = 92547c8a63573ccd3d6effaff6b4d4bb116edb18b6f51c5045354f6936710963
-Rocky-9.1-Workstation-Lite-aarch64-20221124.0.iso: 1669883904 bytes
+# Rocky-9.1-Workstation-Lite-aarch64-20221124.0.iso: 1669883904 bytes
 SHA256 (Rocky-9.1-Workstation-Lite-aarch64-20221124.0.iso) = 92547c8a63573ccd3d6effaff6b4d4bb116edb18b6f51c5045354f6936710963
-Rocky-9-XFCE-aarch64-latest.iso: 1604823040 bytes
+# Rocky-9-XFCE-aarch64-latest.iso: 1604823040 bytes
 SHA256 (Rocky-9-XFCE-aarch64-latest.iso) = d9ee7c2d6196210a42ce9a347a61a05f3a667322b9e4a75d68dd469f1c7601a0
