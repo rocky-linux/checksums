@@ -1,20 +1,34 @@
-Rocky-9-Container-UBI.latest.ppc64le.tar.xz: 51789892 bytes
-SHA256 (Rocky-9-Container-UBI.latest.ppc64le.tar.xz) = 619d5d365bf0607d904e5884b4a7103517539f94e9af11c41404031f105a3917
+# Rocky-9-Container-Minimal-9.1-20221221.0.ppc64le.tar.xz: 33105544 bytes
+SHA256 (Rocky-9-Container-Minimal-9.1-20221221.0.ppc64le.tar.xz) = 1eea78123c950a291049e6cf6070b3c3fe78858713147f339d10cd264591d437
+# Rocky-9-Container-UBI.latest.ppc64le.tar.xz: 51462680 bytes
+SHA256 (Rocky-9-Container-UBI.latest.ppc64le.tar.xz) = cd93f7ef01e97f7f04a690bd5a802b00189673e834609d67b35a23c45e438e8f
+# Rocky-9-Container-Base-9.1-20221221.0.ppc64le.tar.xz: 45704636 bytes
+SHA256 (Rocky-9-Container-Base-9.1-20221221.0.ppc64le.tar.xz) = 2344262535b0b0f22736e62c0b9cc72b9f1b2cd8e561115aca035ae8e63afd5c
 Rocky-9-GenericCloud-Base-9.1-20221124.0.ppc64le.qcow2: 907870208 bytes
 SHA256 (Rocky-9-GenericCloud-Base-9.1-20221124.0.ppc64le.qcow2) = 333a3f11373c518d2951ab4ccf8b36976c3add394b2875b1f7ab2211bde9cb8f
+# Rocky-9-Container-UBI-9.1-20230215.0.ppc64le.tar.xz: 51462680 bytes
+SHA256 (Rocky-9-Container-UBI-9.1-20230215.0.ppc64le.tar.xz) = cd93f7ef01e97f7f04a690bd5a802b00189673e834609d67b35a23c45e438e8f
 Rocky-9-Container-UBI-9.1-20221123.0.ppc64le.tar.xz: 51789892 bytes
 SHA256 (Rocky-9-Container-UBI-9.1-20221123.0.ppc64le.tar.xz) = 619d5d365bf0607d904e5884b4a7103517539f94e9af11c41404031f105a3917
+# Rocky-9-GenericCloud-Base-9.1-20230216.0.ppc64le.qcow2: 929497088 bytes
+SHA256 (Rocky-9-GenericCloud-Base-9.1-20230216.0.ppc64le.qcow2) = 2c3518ae1d0904ec3ceedd6ad136ec0f1a30460bd87b8b32fcb55721ae96640a
 Rocky-9-Container-Minimal-9.1-20221123.0.ppc64le.tar.xz: 25506472 bytes
 SHA256 (Rocky-9-Container-Minimal-9.1-20221123.0.ppc64le.tar.xz) = e822f48aee7d017e8007969003effdbc991fafdad68ac00a40fe9d01f19723eb
-Rocky-9-GenericCloud.latest.ppc64le.qcow2: 910557184 bytes
-SHA256 (Rocky-9-GenericCloud.latest.ppc64le.qcow2) = ab68ec68d3f4552f3169e9d06fa286de2eed027de68fe47724b4f58d4bb15a22
-Rocky-9-GenericCloud-Base-9.1-20221130.0.ppc64le.qcow2: 910557184 bytes
+# Rocky-9-GenericCloud.latest.ppc64le.qcow2: 929497088 bytes
+SHA256 (Rocky-9-GenericCloud.latest.ppc64le.qcow2) = 2c3518ae1d0904ec3ceedd6ad136ec0f1a30460bd87b8b32fcb55721ae96640a
+# Rocky-9-GenericCloud-Base-9.1-20221130.0.ppc64le.qcow2: 910557184 bytes
 SHA256 (Rocky-9-GenericCloud-Base-9.1-20221130.0.ppc64le.qcow2) = ab68ec68d3f4552f3169e9d06fa286de2eed027de68fe47724b4f58d4bb15a22
-Rocky-9-GenericCloud-Base.latest.ppc64le.qcow2: 910557184 bytes
-SHA256 (Rocky-9-GenericCloud-Base.latest.ppc64le.qcow2) = ab68ec68d3f4552f3169e9d06fa286de2eed027de68fe47724b4f58d4bb15a22
+# Rocky-9-GenericCloud-Base.latest.ppc64le.qcow2: 929497088 bytes
+SHA256 (Rocky-9-GenericCloud-Base.latest.ppc64le.qcow2) = 2c3518ae1d0904ec3ceedd6ad136ec0f1a30460bd87b8b32fcb55721ae96640a
+# Rocky-9-Container-UBI-9.1-20221221.0.ppc64le.tar.xz: 51626524 bytes
+SHA256 (Rocky-9-Container-UBI-9.1-20221221.0.ppc64le.tar.xz) = adb227e2a6f4217fa07c372b4a71522e6bc229b1e1080f2272714bfa05bd3191
 Rocky-9-Container-Base-9.1-20221123.0.ppc64le.tar.xz: 40571156 bytes
 SHA256 (Rocky-9-Container-Base-9.1-20221123.0.ppc64le.tar.xz) = df92ae880c2c175e8fd54ff0245ac91ef1505d671c40c2eec79f2acf18e9b253
-Rocky-9-Container-Base.latest.ppc64le.tar.xz: 40571156 bytes
-SHA256 (Rocky-9-Container-Base.latest.ppc64le.tar.xz) = df92ae880c2c175e8fd54ff0245ac91ef1505d671c40c2eec79f2acf18e9b253
-Rocky-9-Container-Minimal.latest.ppc64le.tar.xz: 25506472 bytes
-SHA256 (Rocky-9-Container-Minimal.latest.ppc64le.tar.xz) = e822f48aee7d017e8007969003effdbc991fafdad68ac00a40fe9d01f19723eb
+# Rocky-9-Container-Base.latest.ppc64le.tar.xz: 45842008 bytes
+SHA256 (Rocky-9-Container-Base.latest.ppc64le.tar.xz) = f7deff41540e5463bd75c4e35cf84be08cde1e3dc0dd8c7928deca50ef9db893
+# Rocky-9-Container-Minimal-9.1-20230215.0.ppc64le.tar.xz: 32857204 bytes
+SHA256 (Rocky-9-Container-Minimal-9.1-20230215.0.ppc64le.tar.xz) = a2fa3023a664a7ab18441a6e4519fe14314e98d261f23463a8996fe3d4d19dad
+# Rocky-9-Container-Base-9.1-20230215.0.ppc64le.tar.xz: 45842008 bytes
+SHA256 (Rocky-9-Container-Base-9.1-20230215.0.ppc64le.tar.xz) = f7deff41540e5463bd75c4e35cf84be08cde1e3dc0dd8c7928deca50ef9db893
+# Rocky-9-Container-Minimal.latest.ppc64le.tar.xz: 32857204 bytes
+SHA256 (Rocky-9-Container-Minimal.latest.ppc64le.tar.xz) = a2fa3023a664a7ab18441a6e4519fe14314e98d261f23463a8996fe3d4d19dad
