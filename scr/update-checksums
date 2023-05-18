@@ -14,4 +14,4 @@ elif [[ "${TYPE}" == "isos" ]]; then
   OUTPUT="${1}-${2}.ISO.checksum"
 fi
 
-curl https://dl.rockylinux.org/stg/rocky/${1}/${3}/${2}/CHECKSUM > ${OUTPUT}
+curl https://dl.rockylinux.org/stg/rocky/${VER}/${TYPE}/${ARCH}/CHECKSUM > ${OUTPUT}
