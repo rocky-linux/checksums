@@ -8,8 +8,8 @@ SHA256 (Rocky-9-Container-Toolbox.latest.x86_64.tar.xz) = bd4486a1bada78cae7bf66
 SHA256 (Rocky-9-EC2.latest.x86_64.qcow2) = c5d83104767940fdd23d8a7098a838bf337fcbe42899cebe5ca907267256e30d
 # Rocky-9-GenericCloud-Base-9.4-20240509.0.x86_64.qcow2: 604176384 bytes
 SHA256 (Rocky-9-GenericCloud-Base-9.4-20240509.0.x86_64.qcow2) = 2b521fdff4e4d1a0f1a10b53579a34bba8081ce5eb08e64e3ff22289557f0cfa
-# Rocky-9-OCP-Base.latest.x86_64.qcow2: 619970560 bytes
-SHA256 (Rocky-9-OCP-Base.latest.x86_64.qcow2) = 359bed1fda96d196bce6b0eaf2c2c8908dbb8bd44edd56978cc9224385f7376e
+# Rocky-9-OCP-Base.latest.x86_64.qcow2: 1452539904 bytes
+SHA256 (Rocky-9-OCP-Base.latest.x86_64.qcow2) = 2490a4be146f3515d16aed1f367101ea2dd2728222e7ab00c0cead890d613d25
 # Rocky-9-Vagrant-Vbox-9.4-20240509.0.x86_64.box: 1239532464 bytes
 SHA256 (Rocky-9-Vagrant-Vbox-9.4-20240509.0.x86_64.box) = 88d1c332ad0dcaa2db6ebb2b305ca1dea8f5634da475cdaeb4979cdda0f10da8
 # Rocky-9-Container-Base.latest.x86_64.tar.xz: 52247112 bytes
@@ -28,8 +28,8 @@ SHA256 (Rocky-9-GenericCloud.latest.x86_64.qcow2) = 2b521fdff4e4d1a0f1a10b53579a
 SHA256 (Rocky-9-Vagrant-Vbox.latest.x86_64.box) = 88d1c332ad0dcaa2db6ebb2b305ca1dea8f5634da475cdaeb4979cdda0f10da8
 # Rocky-9-GenericCloud-Base.latest.x86_64.qcow2: 604176384 bytes
 SHA256 (Rocky-9-GenericCloud-Base.latest.x86_64.qcow2) = 2b521fdff4e4d1a0f1a10b53579a34bba8081ce5eb08e64e3ff22289557f0cfa
-# Rocky-9-OCP-Base-9.4-20240509.0.x86_64.qcow2: 619970560 bytes
-SHA256 (Rocky-9-OCP-Base-9.4-20240509.0.x86_64.qcow2) = 359bed1fda96d196bce6b0eaf2c2c8908dbb8bd44edd56978cc9224385f7376e
+# Rocky-9-OCP-Base-9.4-20240509.0.x86_64.qcow2: 1452539904 bytes
+SHA256 (Rocky-9-OCP-Base-9.4-20240509.0.x86_64.qcow2) = 2490a4be146f3515d16aed1f367101ea2dd2728222e7ab00c0cead890d613d25
 # Rocky-9-Container-Minimal-9.4-20240509.0.x86_64.tar.xz: 35217556 bytes
 SHA256 (Rocky-9-Container-Minimal-9.4-20240509.0.x86_64.tar.xz) = 73f1e2c77204990c32f042ea92ba233ffd0fe7cb55897e4ecbeac137a9fd9b74
 # Rocky-9-GenericCloud-LVM.latest.x86_64.qcow2: 616890368 bytes
