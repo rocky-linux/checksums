@@ -8,10 +8,12 @@ SHA256 (Rocky-9-EC2-LVM-9.6-20250531.0.x86_64.qcow2) = 4b9546b66ce0ad34484f0ab84
 SHA256 (Rocky-9-EC2-Base.latest.x86_64.qcow2) = 9439e4536016495dbe166daa418fcc081ee8f34d2cc161308e6715a5cd95c463
 # Rocky-9-EC2.latest.x86_64.qcow2: 628621312 bytes
 SHA256 (Rocky-9-EC2.latest.x86_64.qcow2) = 9439e4536016495dbe166daa418fcc081ee8f34d2cc161308e6715a5cd95c463
-# Rocky-9-OCP-Base.latest.x86_64.qcow2: 645988352 bytes
-SHA256 (Rocky-9-OCP-Base.latest.x86_64.qcow2) = 5f2ae9946c2f27de826655d471c55295bddf5c8b019a88d9db5c38eba685bcfa
+# Rocky-9-OCP-Base.latest.x86_64.qcow2: 1594949632 bytes
+SHA256 (Rocky-9-OCP-Base.latest.x86_64.qcow2) = 815a1b770ef5e231ea653c3afc16499296dd8de09095d452e701a1c2e6fb7e72
 # Rocky-9-Container-Base.latest.x86_64.tar.xz: 53167144 bytes
 SHA256 (Rocky-9-Container-Base.latest.x86_64.tar.xz) = 630afde702160eb22165dd3e0f93f96a388caf32c63f508a75b7c245218656d2
+# Rocky-9-OCP-Base-9.6-20250603.0.x86_64.qcow2: 1594949632 bytes
+SHA256 (Rocky-9-OCP-Base-9.6-20250603.0.x86_64.qcow2) = 815a1b770ef5e231ea653c3afc16499296dd8de09095d452e701a1c2e6fb7e72
 # Rocky-9-OCP-Base-9.6-20250531.0.x86_64.qcow2: 645988352 bytes
 SHA256 (Rocky-9-OCP-Base-9.6-20250531.0.x86_64.qcow2) = 5f2ae9946c2f27de826655d471c55295bddf5c8b019a88d9db5c38eba685bcfa
 # Rocky-9-EC2-LVM.latest.x86_64.qcow2: 641728512 bytes
