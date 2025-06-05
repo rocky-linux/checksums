@@ -8,6 +8,7 @@ They are sorted by version into various directories.
 | keys                 | Rocky Linux GPG Keys                 |
 | rocky-linux-8        | Rocky Linux 8                        |
 | rocky-linux-9        | Rocky Linux 9                        |
+| rocky-linux-10       | Rocky Linux 10                       |
 | rocky-linux-rc       | Rocky Linux Release Candidates       |
 | rocky-linux-X/images | Rocky Linux Images per release       |
 | scr                  | Scripts to pull the latest checksums |
@@ -16,7 +17,7 @@ This repository is mirrored here: https://git.resf.org/rocky-linux/checksums
 
 # Why this repository?
 
-One of the goals of this repository is to be a main point of reference for all
+One of the goals of this repository is to be a point of reference for all
 checksums for our images, regardless of release. It can also be a historical
 reference as well because all versions will be available.
 
@@ -25,8 +26,8 @@ This repository is also a result of the following things:
 * Keykeeper (part of the peridot build system) does not sign arbitrary files
 or artifacts outside of the build system
 
-* We are planning to move Rocky Linux 8 into the new build system, and along
-with it, the keys that sign the packages and repository metadata
+* Rocky Linux 8 and 10 are the only releases that sign the checksums in the
+mirrors
 
 * Some users would rather have a place they can go to that is outside of the
 mirror(s) to verify the signatures are valid and the checksums actually match
