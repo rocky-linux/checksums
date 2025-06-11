@@ -60,5 +60,7 @@ SHA256 (Rocky-10-Vagrant-VMware-10.0-20250609.1.aarch64.box) = ea2a05aa6bdc48981
 SHA256 (Rocky-10-Vagrant-VMware.latest.aarch64.box) = ea2a05aa6bdc4898119cf1efc5582ebfbd2a4f3d20cd817d6f7535b5f8f11e1d
 # Rocky-10-WSL-Base-10.0-20250606.2.aarch64.wsl: 150593283 bytes
 SHA256 (Rocky-10-WSL-Base-10.0-20250606.2.aarch64.wsl) = 399823a818e161d35137e31b62afccc1e18aa5aa4e9c8408f570ee624051d924
-# Rocky-10-WSL-Base.latest.aarch64.wsl: 150593283 bytes
-SHA256 (Rocky-10-WSL-Base.latest.aarch64.wsl) = 399823a818e161d35137e31b62afccc1e18aa5aa4e9c8408f570ee624051d924
+# Rocky-10-WSL-Base-10.0-20250611.0.aarch64.wsl: 150719388 bytes
+SHA256 (Rocky-10-WSL-Base-10.0-20250611.0.aarch64.wsl) = c829c988d02fec874480968fe0dbd66b2db023454f183f0b8f13bb94c8bfb4de
+# Rocky-10-WSL-Base.latest.aarch64.wsl: 150719388 bytes
+SHA256 (Rocky-10-WSL-Base.latest.aarch64.wsl) = c829c988d02fec874480968fe0dbd66b2db023454f183f0b8f13bb94c8bfb4de
