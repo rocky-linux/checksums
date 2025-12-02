@@ -2,6 +2,8 @@
 SHA256 (Rocky-9-Azure-Base-9.7-20251123.2.x86_64.vhdfixed.xz) = 5550eb04b74a6faab475bb7e5552b2c005e2029a7c84461ccd2182530a219ff9
 # Rocky-9-Azure-Base.latest.x86_64.vhdfixed.xz: 493255704 bytes
 SHA256 (Rocky-9-Azure-Base.latest.x86_64.vhdfixed.xz) = 5550eb04b74a6faab475bb7e5552b2c005e2029a7c84461ccd2182530a219ff9
+# Rocky-9-Azure.latest.x86_64.qcow2: 493255704 bytes
+SHA256 (Rocky-9-Azure.latest.x86_64.qcow2) = 5550eb04b74a6faab475bb7e5552b2c005e2029a7c84461ccd2182530a219ff9
 # Rocky-9-Azure-LVM-9.7-20251123.1.x86_64.vhdfixed.xz: 505907596 bytes
 SHA256 (Rocky-9-Azure-LVM-9.7-20251123.1.x86_64.vhdfixed.xz) = ba2facd0d983ca138de0699d1b7455437e4eca330c1291f957c4dbec006f445b
 # Rocky-9-Azure-LVM.latest.x86_64.vhdfixed.xz: 505907596 bytes
@@ -26,6 +28,8 @@ SHA256 (Rocky-9-Container-UBI.latest.x86_64.tar.xz) = 967a05bad2c0fe599131b87750
 SHA256 (Rocky-9-EC2-Base-9.7-20251123.2.x86_64.qcow2) = c23a182f21d477346dbd860214e2d6e603d7ad8c31da24fffafdaa78c8186d4d
 # Rocky-9-EC2-Base.latest.x86_64.qcow2: 650575872 bytes
 SHA256 (Rocky-9-EC2-Base.latest.x86_64.qcow2) = c23a182f21d477346dbd860214e2d6e603d7ad8c31da24fffafdaa78c8186d4d
+# Rocky-9-EC2.latest.x86_64.qcow2: 650575872 bytes
+SHA256 (Rocky-9-EC2.latest.x86_64.qcow2) = c23a182f21d477346dbd860214e2d6e603d7ad8c31da24fffafdaa78c8186d4d
 # Rocky-9-EC2-LVM-9.7-20251123.2.x86_64.qcow2: 662568960 bytes
 SHA256 (Rocky-9-EC2-LVM-9.7-20251123.2.x86_64.qcow2) = daac6ce1d39f4918b28c05f783b8462fe8eff6ada6e8c683c74a6dd76f9daa19
 # Rocky-9-EC2-LVM.latest.x86_64.qcow2: 662568960 bytes
@@ -34,6 +38,8 @@ SHA256 (Rocky-9-EC2-LVM.latest.x86_64.qcow2) = daac6ce1d39f4918b28c05f783b8462fe
 SHA256 (Rocky-9-GenericCloud-Base-9.7-20251123.2.x86_64.qcow2) = 15d81d3434b298142b2fdd8fb54aef2662684db5c082cc191c3c79762ed6360c
 # Rocky-9-GenericCloud-Base.latest.x86_64.qcow2: 648806400 bytes
 SHA256 (Rocky-9-GenericCloud-Base.latest.x86_64.qcow2) = 15d81d3434b298142b2fdd8fb54aef2662684db5c082cc191c3c79762ed6360c
+# Rocky-9-GenericCloud.latest.x86_64.qcow2: 648806400 bytes
+SHA256 (Rocky-9-GenericCloud.latest.x86_64.qcow2) = 15d81d3434b298142b2fdd8fb54aef2662684db5c082cc191c3c79762ed6360c
 # Rocky-9-GenericCloud-LVM-9.7-20251123.2.x86_64.qcow2: 662110208 bytes
 SHA256 (Rocky-9-GenericCloud-LVM-9.7-20251123.2.x86_64.qcow2) = aa4dada9db73ee30fae64add9e942eb67cef2e469f9b4ce34d07ce5173cb9e48
 # Rocky-9-GenericCloud-LVM.latest.x86_64.qcow2: 662110208 bytes

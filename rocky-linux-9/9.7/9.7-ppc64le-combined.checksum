@@ -18,6 +18,8 @@ SHA256 (Rocky-9-Container-UBI.latest.ppc64le.tar.xz) = 73e68655b2c656e8d8fec9aad
 SHA256 (Rocky-9-GenericCloud-Base-9.7-20251123.2.ppc64le.qcow2) = 06df83474645dff9a42d8adceeb62497bcce1508cc961dbfed7b7e326647e9b3
 # Rocky-9-GenericCloud-Base.latest.ppc64le.qcow2: 537395200 bytes
 SHA256 (Rocky-9-GenericCloud-Base.latest.ppc64le.qcow2) = 06df83474645dff9a42d8adceeb62497bcce1508cc961dbfed7b7e326647e9b3
+# Rocky-9-GenericCloud.latest.ppc64le.qcow2: 537395200 bytes
+SHA256 (Rocky-9-GenericCloud.latest.ppc64le.qcow2) = 06df83474645dff9a42d8adceeb62497bcce1508cc961dbfed7b7e326647e9b3
 # Rocky-9-GenericCloud-LVM-9.7-20251123.2.ppc64le.qcow2: 554237952 bytes
 SHA256 (Rocky-9-GenericCloud-LVM-9.7-20251123.2.ppc64le.qcow2) = db66c6fd104a61b4179d200c6d3c5074a802e3ca70eb7a92c0af70f06370638f
 # Rocky-9-GenericCloud-LVM.latest.ppc64le.qcow2: 554237952 bytes
