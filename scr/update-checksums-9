@@ -1,0 +1,33 @@
+#!/bin/bash
+# Run this to update checksums, providing the correct values to pull down the
+# correct release and architectures
+set -x
+
+VER=$1
+
+ARCHES=(x86_64 aarch64 ppc64le s390x)
+LIVE=(x86_64 aarch64)
+TYPES=(images live isos)
+
+if [[ "${TYPE}" == "images" ]]; then
+  OUTPUT="${1}-${2}-combined.checksum"
+elif [[ "${TYPE}" == "live" ]]; then
+  OUTPUT="${1}-${2}-live.ISO.checksum"
+elif [[ "${TYPE}" == "isos" ]]; then
+  OUTPUT="${1}-${2}.ISO.checksum"
+fi
+
+if [ -d "rocky-linux-9/${VER}" ]; then
+  mkdir -p "rocky-linux-9/${VER}"
+  /bin/rm rocky-linux-9/9
+  ln -sr "rocky-linux-9/${VER}" rocky-linux-9/9
+fi
+
+for arch in "${ARCHES[@]}"; do
+  curl https://dl.rockylinux.org/stg/rocky/${VER}/isos/${arch}/CHECKSUM > rocky-linux-9/${VER}/${VER}-${arch}.ISO.checksum
+  curl https://dl.rockylinux.org/stg/rocky/${VER}/images/${arch}/CHECKSUM > rocky-linux-9/${VER}/${VER}-${arch}-combined.checksum
+done
+
+for arch in "${LIVE[@]}"; do
+  curl https://dl.rockylinux.org/stg/rocky/${VER}/live/${arch}/CHECKSUM > rocky-linux-9/${VER}/${VER}-${arch}-live.ISO.checksum
+done
